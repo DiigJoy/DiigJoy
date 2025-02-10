@@ -37,7 +37,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=DiigJoy&theme=tokyonight" />
 </p>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DiigJoy)](https://github.com/anuraghazra/github-readme-stats)
+[![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiigJoy)](https://github.com/DiigJoy/screenmatch)
 
 
 ---
