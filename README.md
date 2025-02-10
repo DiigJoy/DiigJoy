@@ -37,8 +37,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=DiigJoy&theme=tokyonight" />
 </p>
-![DiigJoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiigJoy&show_icons=true&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiigJoy&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
