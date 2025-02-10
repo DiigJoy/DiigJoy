@@ -37,7 +37,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=DiigJoy&theme=tokyonight" />
 </p>
-[![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiigJoy)](https://github.com/DiigJoy/screenmatch)
+[![DiigJoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiigJoy&show_icons=true&theme=tokyonight)](https://github.com/DiigJoy)
 
 
 ---
