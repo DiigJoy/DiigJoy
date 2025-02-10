@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">👋 ¡Hola! Soy Jorge Barrios </h1>
+<p align="center">
+  🚀 Desarrollador Full Stack | Java, Angular, Python, React |
+  🌎 Manejo DevOps y la Automatización
+</p>
 
-<!--
-**DiigJoy/DiigJoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📌 Sobre mí  
+💡 Soy un desarrollador con experiencia en Java, Angular, Python y React. Me gusta crear aplicaciones eficientes y optimizadas. Actualmente, estoy aprendiendo sobre arquitectura de microservicios y DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 He trabajo en empresa de logística, optimizando procesos y desarrollando herramientas para mejorar la productividad.
+
+💬 Pregúntame sobre: **Spring Boot, Angular, APIs REST, DevOps, GitHub Actions, Docker, Kubernetes**.
+
+---
+
+### 🚀 Proyectos en los que estoy trabajando
+🔹 [🔍 Sistema de APIs de Series](https://github.com/DiigJoy/screenmatch) - APIs REST con Spring Boot y JavaScript.
+🔹 [📊 Dashboard de Finanzas Personales](https://github.com/DiigJoy/finanzas-microservicio) - Aplicación con Spring Boot y Angular para gestionar ingresos y gastos.  
+🔹 [🤖 Chatbot Inteligente](https://github.com/DiigJoy/chatbot) - Chatbot con Laravel.  
+🔹 [🔍 Sistema de Registro de Dispositivos](https://github.com/DiigJoy/gestion_dispositivos) - Autenticación y CRUD con Django y Bootstrap.
+
+---
+
+### 📫 Contacto  
+📧 Email: jlbarriossouza@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/jorge-luis-barrios-souza-4422a9121/](https://linkedin.com/in/jorge-luis-barrios-souza-4422a9121/)  
+
+---
+
+### 📊 Estadísticas de GitHub  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiigJoy&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiigJoy&theme=tokyonight" />
+</p>
+
+---
+
+### ⚡ Tecnologías y Herramientas  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🎯 Objetivos 2025
+✔️ Aprender sobre Kubernetes y escalar aplicaciones  
+✔️ Mejorar en arquitectura de microservicios  
+✔️ Contribuir a proyectos Open Source  
