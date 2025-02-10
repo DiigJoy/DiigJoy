@@ -16,7 +16,7 @@
 ---
 
 ### 🚀 Proyectos en los que estoy trabajando
-🔹 [🔍 Sistema de APIs de Series](https://github.com/DiigJoy/screenmatch) - APIs REST con Spring Boot y JavaScript.
+🔹 [🔍 Sistema de APIs de Series](https://github.com/DiigJoy/screenmatch) - APIs REST con Spring Boot y JavaScript. </br>
 🔹 [📊 Dashboard de Finanzas Personales](https://github.com/DiigJoy/finanzas-microservicio) - Aplicación con Spring Boot y Angular para gestionar ingresos y gastos.  
 🔹 [🤖 Chatbot Inteligente](https://github.com/DiigJoy/chatbot) - Chatbot con Laravel.  
 🔹 [🔍 Sistema de Registro de Dispositivos](https://github.com/DiigJoy/gestion_dispositivos) - Autenticación y CRUD con Django y Bootstrap.
