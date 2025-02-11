@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy Jorge Barrios </h1>
 <p align="center">
   🚀 Desarrollador Full Stack | Java, Angular, Python, React |
-  🌎 Manejo DevOps y la Automatización
+  🌎 DevOps | Automatización
 </p>
 
 ---
@@ -27,16 +27,6 @@
 📧 Email: jlbarriossouza@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/jorge-luis-barrios-souza-4422a9121/](https://linkedin.com/in/jorge-luis-barrios-souza-4422a9121/)  
 
----
-
-### 📊 Estadísticas de GitHub  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiigJoy&langs_count=8&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiigJoy&show_icons=true&theme=tokyonight" />
-</p>
 
 ---
 
