@@ -1,106 +1,116 @@
 <h1 align="center">Jorge Barrios</h1>
 <p align="center">
-  Backend & Integration Engineer | Python, FastAPI, React, DevOps
+  AI Engineer | Backend & Integration Engineer | Python, FastAPI, React
 </p>
 
 <p align="center">
-  I build production-style backend systems, integrations, and full-stack applications with a strong focus on reliability, architecture, and engineering quality.
+  I build production-grade software systems, integrations, and AI-powered workflows with a strong focus on backend architecture, reliability, and real-world automation.
 </p>
 
 ---
 
 ## About Me
 
-I'm a backend-focused software engineer with experience building APIs, integrations, telemetry flows, background jobs, and full-stack applications.
+I'm a software engineer focused on backend systems, integrations, APIs, telemetry flows, background jobs, and full-stack applications.
 
-My main technical focus is **Python**, especially **FastAPI** and **Django**, while also delivering frontend applications with **React**, **Next.js**, and enterprise-style backend services with **Spring Boot** when needed.
+My core background is in building reliable software with Python, FastAPI, Django, React, and modern cloud-native practices. I care deeply about architecture, clean contracts, observability, maintainability, and building systems that are ready for real operational demands — not just demo-ready.
 
-I’m especially interested in:
+I'm currently expanding that engineering foundation into AI systems, with a strong focus on:
 
+- AI agents and agent orchestration
+- RAG pipelines and retrieval systems
+- memory and context management
+- MCP integrations and tool usage
+- workflow automation powered by LLMs
+- AI-assisted software generation for portfolio applications
+
+One of my main current goals is to build an AI orchestration layer using Google ADK and related tools, then use that system to accelerate the creation of real portfolio applications across different software domains.
+
+---
+
+## What I'm Building Now
+
+I’m currently shaping this GitHub into a focused engineering portfolio that combines:
+
+- **Backend engineering**
+- **Full-stack product development**
+- **Integrations and automation**
+- **DevOps and operational thinking**
+- **AI-powered systems and agentic workflows**
+
+The goal is not to fill this profile with random repositories.
+
+The goal is to build a body of work that clearly shows how I design systems, structure code, integrate services, automate workflows, and apply AI in ways that are useful, traceable, and production-minded.
+
+---
+
+## Current Focus
+
+### Software Engineering
 - backend architecture and API design
 - distributed and event-driven systems
 - integrations and automation
-- observability, CI/CD, and operational thinking
-- building software that feels production-ready, not just demo-ready
+- observability, CI/CD, and platform thinking
+- production-grade backend and full-stack applications
 
-This GitHub is evolving into a real engineering portfolio focused on public, well-documented projects that reflect how I think, build, and ship software.
-
----
-
-## What You'll Find Here
-
-This portfolio is designed to showcase more than isolated coding exercises.
-
-It highlights:
-
-- **Backend engineering** with Python, FastAPI, Django, and Spring Boot
-- **Full-stack delivery** with React, Next.js, and modern frontend workflows
-- **Integrations and async processing**, including jobs, APIs, telemetry, and automation
-- **Platform and DevOps practices** such as Docker, CI/CD, release automation, and observability
-- **Engineering maturity** through documentation, architecture decisions, testing, and conventions
+### AI Engineering
+- agent orchestration with Google ADK
+- RAG pipelines and retrieval workflows
+- vector search and context injection
+- memory-aware applications
+- MCP-based integrations
+- AI-assisted development workflows
+- automation systems powered by LLMs
 
 ---
 
-## Current Direction
+## Featured Project Directions
 
-I’m currently focused on building a stronger public portfolio with projects around:
+🔹 **Agent Orchestration Platform**  
+A modular AI system for agent workflows, tool usage, memory, retrieval, and software automation.
 
-- IoT and telemetry platforms
-- SaaS and business operations tools
-- analytics and dashboards
-- AI-assisted workflows
-- marketplace and product-style applications
-- backend-heavy systems with real operational concerns
+🔹 **AI-Assisted Portfolio Apps**  
+A series of applications built with support from an internal agentic system, covering different software domains and product patterns.
 
-The goal is simple: make this GitHub reflect the kind of engineer I already am — and the level I’m aiming for next.
+🔹 **IoT / Telemetry Platforms**  
+Backend-heavy systems involving real-time ingestion, MQTT, time-series data, dashboards, and operational monitoring.
 
----
+🔹 **Business Operations & Integration Systems**  
+Applications focused on APIs, workflows, dashboards, reporting, and enterprise-style integrations.
 
-## Featured Projects
-
-🔹 **IoT Agriculture Platform**  
-Telemetry-oriented application with FastAPI, Next.js, MQTT, InfluxDB, and Grafana.
-
-🔹 **Finance / Business Operations Apps**  
-Full-stack applications focused on APIs, reporting, dashboards, and operational workflows.
-
-🔹 **Integration & Backend Services**  
-Projects built to demonstrate API design, background processing, reliability patterns, and production-minded backend engineering.
-
-> More polished portfolio projects are being added progressively as part of a broader engineering portfolio strategy.
+🔹 **Production-Minded Backend Services**  
+Projects that demonstrate reliability patterns, background processing, observability, and scalable backend design.
 
 ---
 
-## Tech Stack
+## Core Stack
 
 ### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+Python • FastAPI • Django • Java • Spring Boot
 
 ### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+React • Next.js • TypeScript
 
 ### Data & Messaging
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![Memgraph](https://img.shields.io/badge/Memgraph-6D28D9?style=for-the-badge)
+PostgreSQL • MySQL • Redis • InfluxDB • MQTT • Memgraph
 
 ### DevOps & Platform
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+Docker • Kubernetes • GitHub Actions • Grafana • AWS • GCP • Azure
+
+### AI / LLM Engineering
+Google ADK • RAG • Vector Databases • MCP • Memory / Context Management • Tool Integrations • Workflow Automation
+
+---
+
+## Philosophy
+
+I’m interested in building software that is:
+- useful in the real world
+- architecturally sound
+- operationally reliable
+- well documented
+- connected to real workflows
+- enhanced by AI where it actually creates leverage
 
 ---
 
@@ -113,6 +123,6 @@ Projects built to demonstrate API design, background processing, reliability pat
 
 ## Final Note
 
-This profile is being actively shaped into a focused engineering portfolio.
+This GitHub is evolving into a serious engineering portfolio.
 
-The emphasis is not on posting many random repositories, but on building a body of work that clearly demonstrates backend strength, system design thinking, full-stack execution, and production-minded software engineering.
+Not a collection of random experiments, but a growing set of systems, applications, and AI-powered workflows that reflect how I think, build, and ship software.
